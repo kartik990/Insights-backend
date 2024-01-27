@@ -1,8 +1,10 @@
 
 ## Getting Started
 
-First, clone the repo in local:
-
+1. Clone the repo into your local
+```bash
+git clone https://github.com/kartik990/Insights-backend.git .
+```
 
 2. Add install all dependencies using 
    
