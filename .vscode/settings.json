@@ -1,0 +1,15 @@
+{
+    "cSpell.words": [
+        "kartik",
+        "mikro",
+        "POSTGRE",
+        "typeorm"
+    ],
+    "cSpell.enableFiletypes": [
+        "dotenv",
+        "json5"
+    ],
+    "cSpell.ignoreWords": [
+        "Updoot"
+    ]
+}
